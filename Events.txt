@@ -1,0 +1,30 @@
+--Beneficial
+
+Portal Alignment: All discorporated heroes are recorporated.
+
+Astral Convergence: All heroes are restored to max health and all Afflict and Bestow effects are Cleansed.
+
+Divine Intervention: Each hero rolls a die. Whoever rolls the highest is restored to max health and all Afflict effects are Cleansed. Bestow: $-
+
+(B)(a) Ranged Attack 4. Deal 50 magic damage.
+
+
+Artifact Discovery: An artifact appears in this space that can be picked up by a hero.
+
+Temporal Anomaly: Heroes within 4 spaces gain Bestow: Speed and Intelligence increased by 20 until the next environment phase.
+
+--Harmful
+
+Portal Surge: Reveal environment cards until 2 events are revealed. They both take effect immediately (in this space or adjacent spaces).
+
+Lightning Storm: All characters in lane take 10 magic damage at the start of their turns and gain Afflict: cannot take actions beyond moving; Roll a die. On a 5, or 6 this event and Affliction ends. 
+
+The Colossus Approaches: When this event has 5 counters on it, the event ends and the Colossus takes its place. Heroes may place a counter on this event by spending two actions or basic attack cards while adjacent.
+
+Earthquake: All characters take 50 physical damage and gain Afflict: movement speed max 2; until the next environment phase.
+
+Eruption: Characters within 4 spaces of this event take 25 physical damage and are pushed 8 spaces away.
+
+Time Dilation: All characters within 4 spaces of this event gain Afflict: Movement and action costs are doubled. 
+
+Spacial Anomaly: Heroes within 4 spaces are teleported to their starting space.

@@ -1,0 +1,18 @@
+Environment items should be objectives; powerful
+// should require investment
+// should expire
+
+Future Tech
+Basic Tech
+Other
+
+Airship: Requires Fodder? take to base, repair, man (fodder), and send down lane. becomes creature?
+Staff of the Magi: $-(B)(B)(a)(a) Choose one: Deal 50 magic damage in a line 6 spaces; Deal 200 magic damage to 1 enemy; Teleport 6 spaces; Restore 100 health  
+Wand of Orcus: Passive - Non-Hero Characters that die within 2 spaces spawn a zombie allied with the owner of the wand. 50 health, 25 physical melee attack, 2 speed
+Laser Rifle: Ranged Weapon 6. Deals extra damage equal to Speed. 
+Holy Avenger: Melee Weapon. Deals extra damage equal to Constitution. Damage dealt with this weapon restores health to its wielder 
+Selune's Tear: Passive - When this hero would discorporate, instead restore it to full health. 
+Blade of Obsidian: Melee Weapon. Deals extra damage equal to the target's Int.
+Godsblood: Magic damage is increased by 25% rounded down.
+Spellthief's Edge: Melee Weapon. Damage dealt with this weapon grants temporary hit points equal to the damage dealt. 
+Manual of the Gods: All stats doubled. At the end of each turn, roll a die. On a roll below 4, this hero discorporates.

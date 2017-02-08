@@ -1,0 +1,7 @@
+randomly determine monster spawns
+
+monster list is generated from monsters with exp less than double the highest hero's level
+
+env phase: monster turn (summ sickness), env cards
+
+Beholder and purple wurm xp raised to encounter less

@@ -1,0 +1,30 @@
+﻿--Format: Name: HP, Attack/Range, Speed, Special, XP/reward
+
+Zombie: 50, 25/m, 2, Can't attack if it moved, 1
+
+Beholder: 200, 100/4, 4, Attacks target 5 creatures, 5
+
+Dragon: 600, 150/m, 6, May use action to deal magic damage to creatures in a line 3 once per turn, 10/gain dragon armor?
+
+Quasit: 30, 25/m, 3, If quasit survives damage summon another quasit in an adjacent empty space, 1
+
+Imp: 25, 25/4, 2, Deals Magic damage, 1
+
+Purple Wurm: 300, 80/m, 5, May use action to go underground-becoming untargetable until its next turn, 5
+
+Skeleton: 20, 25/4, 3, Takes half physical damage, 1
+
+Roc: 200, 50/m, 6, Gains 2 movement for each point of speed spent to move, 4
+
+Goblin: 10, 20/m, 3, Deals double damage to flanked enemies, 1
+
+Kobold: 15, 25/m, 3, If the dragon is in this lane-double speed, 1
+
+Psycho: 50, 50/m, 4, May kill self-Deal 4x current hp physical damage to all characters within 3, 2
+
+Cultist: 50, 25/m, 3, Once per turn-Target character: Inflict: Speed reduced by 20 until end of next env phase, 2
+
+Colossus: 1000, 250/2, Deals damage in a line-Once per turn-target character: Inflict: stun until end of next turn, 20
+
+--Ability Ideas:
+Once per turn-gain range 4 and deal double damage on next attack
